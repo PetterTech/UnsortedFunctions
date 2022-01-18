@@ -1,6 +1,6 @@
 ﻿function verb-noun
     {
-        <#
+    <#
     .Synopsis
     Short description
     .Description
